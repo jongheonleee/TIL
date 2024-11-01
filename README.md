@@ -1,4 +1,3 @@
-<hr>
 
 # 🌱 TIL(Today I Learned) 🌳
 
