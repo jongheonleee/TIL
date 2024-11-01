@@ -21,5 +21,6 @@
 > #### 📌 8. frontend : [frontend learning directory](frontend)
 > #### 📌 9. network : [network learning directory](network)
 > #### 📌 10. os : [os learning directory](os)
+> #### 📌 11. design pattern : [design_pattern learning directory](design_pattern)
 
 <br>
