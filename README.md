@@ -27,7 +27,8 @@
 <br>
 
 > #### 📌 3. Algorithm 
-> - [1. 알고리즘 학습 내용 - 깃허브](https://github.com/jongheonleee/Algorithms)
+> - [1. 백준, 프로그래머스 알고리즘 학습 내용 - 깃허브](https://github.com/jongheonleee/Algorithms)
+> - [2. 리트코드 알고리즘 학습 내용 - 깃허브](https://github.com/jongheonleee/Leetcode)
 
 <br>
 
